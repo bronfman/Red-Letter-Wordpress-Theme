@@ -1,0 +1,1 @@
+Red Letter Theme is a responsive, multi-column theme for WordPress; built with the writer and thinker in mind. Ideal for poetry, quotes, and other short form entries.
