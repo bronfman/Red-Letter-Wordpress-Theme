@@ -4,6 +4,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title><?php bloginfo('name'); ?><?php wp_title("|",true); ?></title>
 	<meta name="viewport" content="width=device-width; initial-scale=1.0">
+	<link rel="alternate" href="<?php bloginfo('rss2_url'); ?>" />
 	<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_url' ); ?>">
 	<link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700,400italic' rel='stylesheet' type='text/css'>
 	<!--[if IE]>
